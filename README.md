@@ -108,7 +108,7 @@ This is a personal learning project but open to feedback, suggestions, and colla
 ## 🧠 Author
 
 > **0xNeuron** — Machine Learning, AI, and systems enthusiast.  
-> Connect on [LinkedIn](https://linkedin.com/) | [GitHub](https://github.com/)
+> Connect on [LinkedIn](https://linkedin.com/) | [GitHub](https://github.com/0xneuron/)
 
 ---
 
