@@ -14,7 +14,7 @@ An end-to-end Machine Learning-based Movie Recommendation System — from data p
 ---
 
 ## 🗂️ Project Structure
-
+```
 movie-recommender/
 │
 ├── data/ # Datasets
@@ -37,7 +37,7 @@ movie-recommender/
 ├── requirements.txt # Python dependencies
 ├── README.md # This file
 └── .gitignore # Ignore system files
-
+```
 
 ---
 
@@ -108,7 +108,7 @@ This is a personal learning project but open to feedback, suggestions, and colla
 ## 🧠 Author
 
 > **0xNeuron** — Machine Learning, AI, and systems enthusiast.  
-> Connect on [LinkedIn](https://linkedin.com/) | [GitHub](https://github.com/) (add links when ready)
+> Connect on [LinkedIn](https://linkedin.com/) | [GitHub](https://github.com/)
 
 ---
 
